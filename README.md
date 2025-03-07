@@ -1,6 +1,8 @@
 # Task Tracer CLI
 
 A Task Tracker Command Line Interface created with **GO** language as a beginner project while learning the syntax and the structural typing shape of the go language. 
+this project is done in reference to roadmap.sh
+https://roadmap.sh/projects/task-tracker
 
 
 # Running the CLI
