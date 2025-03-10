@@ -20,7 +20,7 @@ the project is using ``.json`` file as the task list and the CLI will update the
 
 to see the command list available for the program you can use
 ```
-./task-cli
+./task-tracker
 ```
 this will show list of available command which is :
 
